@@ -1,4 +1,5 @@
 cask "atom" do
+  # test
   version "1.53.0"
   sha256 "590440babc7c455ddca313cf5a5ca12a69204eaa2274070beea26d0f521a8135"
 
